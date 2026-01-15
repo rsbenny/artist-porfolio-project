@@ -1,0 +1,2 @@
+My Linux learning journey.
+Ubuntu 24.04 on i3-2100.
