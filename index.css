@@ -9,6 +9,9 @@ h1 {
 .links {
     display: inline-block;
 }
+.links ul {
+    padding: 0;
+}
 .links li {
     display: inline-block;
 }
