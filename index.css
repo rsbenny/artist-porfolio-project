@@ -3,6 +3,7 @@ body {
 }
 h1 {
     display: inline-block;
+    font-weight: 300;
 }
 .links {
     display: inline-block;
