@@ -41,6 +41,7 @@ a.active {
     height: 500px;
     width: 100%;
     object-fit: cover;
+    border-radius: 8px;
 }
 .card h2 {
     display: inline-block;
