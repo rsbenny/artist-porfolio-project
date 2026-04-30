@@ -28,7 +28,11 @@ h1 {
 a.active {
     border-bottom: 1px solid black;
 }
-img {
+.card {
     width: 40%;
+    display: inline-block;
+}
+.card img {
     height: 500px;
+    width: 100%;
 }
