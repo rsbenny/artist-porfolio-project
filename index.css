@@ -28,6 +28,9 @@ h1 {
 a.active {
     border-bottom: 1px solid black;
 }
+.gallery {
+    padding: 16px;
+}
 .card {
     width: 49%;
     display: inline-block;
