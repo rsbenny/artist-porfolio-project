@@ -64,3 +64,6 @@ a.active {
     margin: 0;
     font-size: 20px;
 }
+.cta {
+    border-bottom: 1px solid black;
+}
