@@ -51,6 +51,7 @@ a.active {
 .about {
     width: 40%;
     min-width: 600px;
+    margin: 100px 0 100px 200px ;
 }
 .about h3 {
     font-size: 40px;
