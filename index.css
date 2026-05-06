@@ -68,4 +68,5 @@ a.active {
     border-bottom: 1px solid black;
     display: inline-block;
     padding-bottom: 8px;
+    margin-top: 0;
 }
