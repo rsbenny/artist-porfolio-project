@@ -48,6 +48,10 @@ a.active {
     margin: 8px 0 16px 0;
     font-weight: 300;
 }
+.about {
+    width: 40%;
+    min-width: 600px;
+}
 .about h3 {
     font-size: 40px;
     font-weight: 300;
